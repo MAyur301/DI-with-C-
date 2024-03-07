@@ -1,0 +1,6 @@
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\bin\Debug\Web.Data.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\bin\Debug\Web.Data.pdb
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\obj\Debug\Web.Data.csproj.AssemblyReference.cache
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\obj\Debug\Web.Data.csproj.CoreCompileInputs.cache
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\obj\Debug\Web.Data.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Data\obj\Debug\Web.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\bin\Debug\web.Repository.dll
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\bin\Debug\web.Repository.pdb
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\bin\Debug\Web.Data.dll
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\bin\Debug\Web.Data.pdb
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\obj\Debug\web.Repository.csproj.AssemblyReference.cache
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\obj\Debug\web.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\obj\Debug\web.Repository.csproj.CopyComplete
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\obj\Debug\web.Repository.dll
+C:\Users\mayurb\source\repos\WebApplication1\web.Repository\obj\Debug\web.Repository.pdb

@@ -1,0 +1,13 @@
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\Web.Service.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\Web.Service.pdb
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\StructureMap.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\Web.Data.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\web.Repository.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\Web.Data.pdb
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\web.Repository.pdb
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\bin\Debug\StructureMap.xml
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\obj\Debug\Web.Service.csproj.AssemblyReference.cache
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\obj\Debug\Web.Service.csproj.CoreCompileInputs.cache
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\obj\Debug\Web.Service.csproj.CopyComplete
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\obj\Debug\Web.Service.dll
+C:\Users\mayurb\source\repos\WebApplication1\Web.Service\obj\Debug\Web.Service.pdb
